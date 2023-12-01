@@ -8,7 +8,7 @@ const Banner=()=> {
         </Foto>       
         <MiTitulo>
             <h2>Hola!</h2>
-            <h1>Soy Jonatan Pacora</h1>
+            <h1>Soy Jonatan Pacora Vega</h1>
             <h3>Junior BI</h3>
         </MiTitulo>
        </BannerWraper>
